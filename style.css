@@ -1,0 +1,37 @@
+h1 {
+    color:white;
+}
+h2{
+    color:blueviolet;
+    font-size:xx-large ;
+    font-style: italic;
+}
+p{
+    color: crimson;
+    font-size: xx-large;
+    font-style: oblique;
+}
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: equal;
+    justify-self: center;
+
+}
+p,h2{
+    text-align: start;
+}
+body{
+    background-color:burlywood;
+    border-radius: 50px;
+    justify-self: center;
+    
+}
